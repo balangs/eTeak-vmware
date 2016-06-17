@@ -1,6 +1,7 @@
-# eTeak-vmware
+## eTeak-vmware
 eTeak installed on a Ubuntu 15.04 virtualBox
 
+## Instructions
 clone the repository:
 `git clone git@github.com:balangs/eTeak-vmware.git`
 
